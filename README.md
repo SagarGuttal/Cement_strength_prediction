@@ -9,12 +9,24 @@
 ## Steps are taken to this Project :-
 1. Information about Dataset
 2. Data preprocessing
-3. Feature engineering
-4. Model-Building/Hyperparameter Tuning
-5. Model Evaluation:
-6. Creating front end UI for a website
-7. Creating backend using python
+3. Exploratory data analysis
+4. Feature engineering
+5. Model-Building/Hyperparameter Tuning
+6. Model Evaluation
+7. Creating front end UI for a website
+8. Creating backend using python
 
 ## Tools and Technique
 * Language :- Python
 * Python libraries :- Numpy, Pandas, Sklearn, Matplot, Seaborn
+
+## About Dataset
+* We will use a concrete compressive strength dataset which was retrieved from the Kaggle, you can click here for the dataset.
+* Dataset link :- https://www.kaggle.com/datasets/elikplim/concrete-compressive-strength-data-set
+
+## Data preprocessing 
+* Understanding data 
+* Briefly Describe the dataset
+* Checking the null values
+* Checking the Co-relation between the columns
+* 
